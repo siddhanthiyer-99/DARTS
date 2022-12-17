@@ -20,7 +20,7 @@ Step 3. Swipe the dart to throw on the dartboard. <br>
 
 <h2> Checkout the YouTube video: </h2>
 
-![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)
+[![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)(https://youtu.be/bfUiHO_sAFQ)
 
 <br>
 https://youtu.be/bfUiHO_sAFQ
