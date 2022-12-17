@@ -1,5 +1,8 @@
 "An Augmented Reality based game of DARTS developed using ARCore and ARFoundations by Google in Unity. " 
 
+
+![Implementation](https://user-images.githubusercontent.com/47019139/208221897-4b0502dc-2ccd-414f-a901-20ae8805e8b1.PNG)
+
 Steps to run:
 
 Step 1. Open Unity Hub and select the cloned folder. <br>
