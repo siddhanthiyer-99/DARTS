@@ -17,3 +17,6 @@ Step 3. Swipe the dart to throw on the dartboard. <br>
 <h2> Future work: </h2>
 1. Game score can be added by detecting what area of the dartboard is in collision with the dart. <br>
 2. Multiplayer can be brought to make it more competitive and fun. <br>
+
+<h2> Checkout the YouTube video: </h2>
+https://youtu.be/bfUiHO_sAFQ
