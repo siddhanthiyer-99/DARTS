@@ -19,7 +19,8 @@ Step 3. Swipe the dart to throw on the dartboard. <br>
 2. Multiplayer can be brought to make it more competitive and fun. <br>
 
 <h2> Checkout the YouTube video: </h2>
-![Thumbnail](https://user-images.githubusercontent.com/47019139/208224430-962a8352-2b18-4dd0-a7d1-98d763b9d829.PNG)
+
+![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)
 
 <br>
 https://youtu.be/bfUiHO_sAFQ
