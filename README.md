@@ -1,7 +1,8 @@
 An Augmented Reality based game of DARTS developed using ARCore and ARFoundations by Google in Unity.
+![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)](https://youtu.be/bfUiHO_sAFQ)
 
-<h2> Checkout the YouTube video: </h2>
-[![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)](https://youtu.be/bfUiHO_sAFQ)
+
+
 
 
 <h2> Steps to run: </h2>
