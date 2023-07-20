@@ -1,5 +1,6 @@
 An Augmented Reality based game of DARTS developed using ARCore and ARFoundations by Google in Unity.
 
+[![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)](https://youtu.be/bfUiHO_sAFQ)
 ![Implementation](https://user-images.githubusercontent.com/47019139/208221897-4b0502dc-2ccd-414f-a901-20ae8805e8b1.PNG)
 
 <h2> Steps to run: </h2>
@@ -20,4 +21,4 @@ Step 3. Swipe the dart to throw on the dartboard. <br>
 
 <h2> Checkout the YouTube video: </h2>
 
-[![Thumbnail](https://user-images.githubusercontent.com/47019139/208224433-5e4ca835-766e-4e56-a27c-a87fe6f65cb5.PNG)](https://youtu.be/bfUiHO_sAFQ)
+
